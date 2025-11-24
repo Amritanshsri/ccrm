@@ -81,4 +81,4 @@ To execute the program with assertions turned on, use the `-ea` switch when runn
 Registration No: 24BSA10125
 
 **Under the guidance of:**  
-Dr.Vshal Singh, VIT Bhopal University
+Dr.Vishal Singh, VIT Bhopal University
